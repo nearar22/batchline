@@ -1,1 +1,1 @@
-Warehouse dispatch manifest 91. Product: Northstar Coffee Mill. Batch code: K8R2. Quantity: 160 units. Current disposition: held at outbound gate pending recall review. This operator-created fixture places the lot outside the demonstration recall range.
+Warehouse dispatch manifest 91. Product: Northstar Coffee Mill. Batch code: K7P4. Quantity: 160 units. Current disposition: held at outbound gate pending recall review. This operator-created fixture places the lot inside the demonstration recall range.
