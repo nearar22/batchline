@@ -1,0 +1,21 @@
+{
+  "network": "GenLayer Studio Next",
+  "chainId": 61997,
+  "contractAddress": "0xCdE6a0cf6FE1DD8C051D9944a8A1653d9F3a51Af",
+  "deploymentTransaction": "0x2fed5520636775d311f2e26df3f637f721015caa5fbc149fc9902bc72b748849",
+  "contractSourceSha256": "39ba5debce0e6b17e3b7828dce65f1d90c88829e62bb29ca86bbec7839f73936",
+  "sourceMatch": true,
+  "repository": "https://github.com/nearar22/batchline",
+  "publicSite": "https://batchline.pages.dev",
+  "liveDemo": {
+    "caseId": "batchline-mvabrsll",
+    "authorityTransaction": "0xa149b289a1e372a09510571f56a39fc0dfa793c884cb1b281d5de7d03ee71f63",
+    "createTransaction": "0x2815cd885cf80cd509f12b33b6205f7ba12fdbee0903609272fbc3673d3f8a31",
+    "freezeTransaction": "0xa46d9de24029b84a11cac34e18db2ef82a223c94d03a53ad7ef61374fced427d",
+    "inspectionTransaction": "0xc2cfe3cc5df59cb26404ba5ec4087a356358435c1b10ea6f2155282835fa9b2e",
+    "confirmationTransaction": "0x536a4390f012ff734839451db90601ee2b8d5bf3f7c2af344cc561e67dbbd0bd",
+    "decision": "QUARANTINE",
+    "finalState": "QUARANTINE_CONFIRMED",
+    "shipmentGate": "BLOCKED"
+  }
+}

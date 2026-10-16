@@ -34,4 +34,12 @@ The files under `docs/demo-*.txt` are explicitly operator-created fixtures. They
 
 Network: GenLayer Studio Next · chain `61997` · RPC `https://studio-next.genlayer.com/api`
 
-Deployment and verified transaction references are added only after source matching and a live end-to-end gate test pass.
+### Verified deployment
+
+- Contract: [`0xCdE6...51Af`](https://explorer-studio-dev.genlayer.com/address/0xCdE6a0cf6FE1DD8C051D9944a8A1653d9F3a51Af)
+- Deployment: [`0x2fed...8849`](https://explorer-studio-dev.genlayer.com/tx/0x2fed5520636775d311f2e26df3f637f721015caa5fbc149fc9902bc72b748849)
+- Complete packet freeze: [`0xa46d...427d`](https://explorer-studio-dev.genlayer.com/tx/0xa46d9de24029b84a11cac34e18db2ef82a223c94d03a53ad7ef61374fced427d)
+- Validator inspection: [`0xc2cf...9b2e`](https://explorer-studio-dev.genlayer.com/tx/0xc2cfe3cc5df59cb26404ba5ec4087a356358435c1b10ea6f2155282835fa9b2e)
+- Quarantine confirmation: [`0x536a...d0bd`](https://explorer-studio-dev.genlayer.com/tx/0x536a4390f012ff734839451db90601ee2b8d5bf3f7c2af344cc561e67dbbd0bd)
+- Live result: `QUARANTINE_CONFIRMED`, shipment gate `BLOCKED`
+- Deployed and local source SHA-256: `39ba5debce0e6b17e3b7828dce65f1d90c88829e62bb29ca86bbec7839f73936`
